@@ -1,0 +1,58 @@
+body{
+
+    background-color: lightblue;
+    margin-top: 4rem;
+    font-family: 'Bungee', cursive;
+    
+}
+.header{
+
+
+    text-align: center;
+    color: blue;
+
+}
+
+label{
+    padding: 0.5rem 1rem;
+    text-align: center;
+    margin: auto;
+    font-size: large;
+    display: block;
+}
+#input{
+
+    padding: 0.5rem 1rem;
+    margin: auto;
+    
+    display: block;
+}
+
+#output{
+
+    font-size: x-large;
+    display: block;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    margin: auto;
+    font-weight: bold;
+}
+#check-button{
+
+    background-color: blue;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border-color:blue ;
+    font-size: 1rem;
+    color: white;
+    display: block;
+    margin: 1rem auto;
+
+}
+.img{
+
+    width: 20%;
+    display: none;
+    margin: auto;
+    padding: 0.5rem 1rem;
+}
