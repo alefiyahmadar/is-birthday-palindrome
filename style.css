@@ -1,15 +1,18 @@
+
+
+
 body{
 
-    background-color: lightblue;
+    background-color: #fef9c3;
     margin-top: 4rem;
-    font-family: 'Bungee', cursive;
+    font-family: 'Abril Fatface', cursive;
     
 }
 .header{
 
 
     text-align: center;
-    color: blue;
+    color: #ca8a04;
 
 }
 
@@ -39,10 +42,10 @@ label{
 }
 #check-button{
 
-    background-color: blue;
+    background-color:#ca8a04;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
-    border-color:blue ;
+    border-color:#ca8a04;
     font-size: 1rem;
     color: white;
     display: block;
